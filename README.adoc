@@ -1,0 +1,13 @@
+= Stra - a midnight commander skin
+
+Use with a light themed terminal.
+
+.Screenshot
+image::https://i.imgur.com/hpPh8jt.png[screenshot]
+
+== Other elements
+[horizontal]
+Terminal:: https://www.iterm2.com/[iTerm].
+Color scheme:: https://github.com/jonathanfilip/lucius[Lucius] light low contrast.
+Font:: https://github.com/i-tu/Hasklig[Hasklig] font (a https://github.com/adobe-fonts/source-code-pro[Source Code Pro] variation.)
+
